@@ -1,8 +1,9 @@
 ## Hi there 👋 I'm Saran Raj
-Software Developer
+💻 Passionate Software Developer | Java Backend | React & Next.js Frontend  
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://saranraj.web.app/)                                                 
-- 🌱 Improving my DSA skills through regular coding practice
+- 🌱 Currently enhancing my DSA skills
+- 📚 Always learning, always building
 - Worked at [<img src="https://github.com/Saran2720/lexonItImg/blob/main/lexonIt.png?raw=true&w=256&q=75" height="24">](https://www.lexonit.com/)
 
 - Reach me at
